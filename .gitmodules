@@ -1,0 +1,12 @@
+[submodule "mnet-backend-express"]
+	path = mnet-backend-express
+	url = https://github.com/jimmg35/mnet-backend-express.git
+[submodule "mnet-frontend-next"]
+	path = mnet-frontend-next
+	url = https://github.com/jimmg35/mnet-frontend-next.git
+[submodule "mnet-nginx"]
+	path = mnet-nginx
+	url = https://github.com/jimmg35/mnet-nginx.git
+[submodule "mnet-deploy-compose"]
+	path = mnet-deploy-compose
+	url = https://github.com/jimmg35/mnet-deploy-compose.git
