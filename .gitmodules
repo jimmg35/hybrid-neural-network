@@ -1,0 +1,3 @@
+[submodule "hnn-nginx"]
+	path = hnn-nginx
+	url = https://github.com/jimmg35/hnn-nginx.git
