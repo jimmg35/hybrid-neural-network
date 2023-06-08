@@ -1,12 +1,15 @@
-[submodule "mnet-backend-express"]
-	path = mnet-backend-express
-	url = https://github.com/jimmg35/mnet-backend-express.git
-[submodule "mnet-frontend-next"]
-	path = mnet-frontend-next
-	url = https://github.com/jimmg35/mnet-frontend-next.git
-[submodule "mnet-nginx"]
-	path = mnet-nginx
-	url = https://github.com/jimmg35/mnet-nginx.git
-[submodule "mnet-deploy-compose"]
-	path = mnet-deploy-compose
-	url = https://github.com/jimmg35/mnet-deploy-compose.git
+[submodule "hnn-frontend-next"]
+	path = hnn-frontend-next
+	url = https://github.com/jimmg35/hnn-frontend-next.git
+[submodule "hnn-backend-express"]
+	path = hnn-backend-express
+	url = https://github.com/jimmg35/hnn-backend-express.git
+[submodule "hnn-deploy-compose"]
+	path = hnn-deploy-compose
+	url = https://github.com/jimmg35/hnn-deploy-compose.git
+[submodule "hnn-nginx"]
+	path = hnn-nginx
+	url = https://github.com/jimmg35/hnn-nginx.git
+[submodule "hnn-training-pytorch"]
+	path = hnn-training-pytorch
+	url = https://github.com/jimmg35/hnn-training-pytorch.git
